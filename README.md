@@ -1,16 +1,5 @@
-# my_project
+# Assignment-0_flutter_hello_wrold
 
-A new Flutter project.
+A new Flutter hello_wrold project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![po](https://github.com/Israil445/Flutter_Assignment-0/assets/97037120/741cd325-f4e7-4ac0-b314-4736a71e5a19)
