@@ -1,4 +1,4 @@
-# Assignment-0_flutter_hello_wrold
+# Assignment-0_flutter_hello_world
 
 A new Flutter hello_wrold project.
 
